@@ -8,7 +8,7 @@ Mandelbrot Set &amp; Julia Set Fractals in JavaScript
 
 ## Demo
 
-<img src="/screenshots/screenshot1.png" width="700">
+<img src="/screenshots/screenshot1.PNG">
 
 
 
